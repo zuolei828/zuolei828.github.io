@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>layout</title>
+    <style>
+      #app {
+        transform: translateZ(0);
+        position: absolute;
+        top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <p>layout布局</p>
+    </div>
+    <script>
+      setTimeout(function() {
+        document.getElementById('app').style.transform = 'translateY(50px) translateZ(0)';
+      }, 3000)
+    </script>
+  </body>
+</html>
