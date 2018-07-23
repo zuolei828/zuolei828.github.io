@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>layout</title>
+    <style>
+      #app {
+        position: absolute;
+        top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <p>layout布局</p>
+    </div>
+    <script>
+      setTimeout(function() {
+        document.getElementById('app').style.top = '50px';
+      }, 3000)
+    </script>
+  </body>
+</html>
