@@ -1,0 +1,96 @@
+/*
+
+111111111111111111111111111
+11111111111111111
+11111111111111111
+1111111111111111111
+111111111111111111111
+11111111111111111111
+
+11111111111111
+111111111111
+11111111111
+11111111111
+1111111111111
+1111111
+1111111111
+[Info  - 6:18:53 PM] ESLint server is running.
+[Info  - 6:18:53 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test1.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 7:39:32 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test1.1.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 7:39:39 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test2.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 8:02:35 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test2.1.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 8:02:41 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test3.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 8:03:16 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/timing.js
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 2:37:29 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test3.1.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+[Info  - 2:37:35 PM] 
+Failed to load the ESLint library for the document /Users/raistlinzuo/ptest/test4.html
+
+To use ESLint in this workspace please install eslint using 'npm install eslint' or globally using 'npm install -g eslint'.
+You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for this workspace by executing the 'Disable ESLint for this workspace' command.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+body {
+  font-size: 14px;
+}
+p {
+  font-size: 16px;
+}
